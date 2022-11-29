@@ -3,7 +3,7 @@
 💻 Estudante de Sistemas de Informação <br>
 🤓 Atualmente estou estudando HTML, CSS e JavaScript
 
-<div align="justify">
+<div align="justify" display="flex">
   <a href="https://github.com/MarllonVasconcelos">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarllonVasconcelos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarllonVasconcelos&layout=compact&langs_count=7&theme=dracula"/>
